@@ -18,6 +18,8 @@ conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cud
 ```
 
 # 1. Dataset
+Contains five category 1. lung cancer 2. kidney diease 3. heart diease 3. breast cancer 4. colorectol cancer
+
 
 ## 1.1. Cancers
 Cancers are known for their threat to personal health, sometimes proving fatal. Early
